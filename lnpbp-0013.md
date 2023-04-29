@@ -105,7 +105,7 @@ scripts* defining parts of the business logic for *client-side validation*.
 
 RGB operates in "shards", where each contract has a separate **state history**
 and data; different smart contracts never intersect in their histories
-directly. This allows another level of scalability; and while the therm "shard"
+directly. This allows another level of scalability; and while the term "shard"
 is  incorrect, we use it to demonstrate that RGB actually achieves what was
 planned to be achieved with "Ethereum shards".
 
